@@ -74,6 +74,14 @@ deep_ocr_down and deep_ocr_up directories are related to ResNet-BiLSTM-Attention
 
 ocr_down and ocr_up directories are related to simpleHTR model. For each line of text we train a model.
 
+## Output examples
+
+![Capture](![323-0-41-12mm0538](https://user-images.githubusercontent.com/28767607/164894438-2503cb92-fa9a-458c-b2c4-15420e87144c.jpg)
+)
+
+![Capture](![Uploading daytime_0922_ 21-09-22 12-34-30.jpg…]()
+)
+
 # References
 
 https://github.com/ultralytics/yolov5
