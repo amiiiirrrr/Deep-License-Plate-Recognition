@@ -76,11 +76,10 @@ ocr_down and ocr_up directories are related to simpleHTR model. For each line of
 
 ## Output examples
 
-![Capture](![323-0-41-12mm0538](https://user-images.githubusercontent.com/28767607/164894438-2503cb92-fa9a-458c-b2c4-15420e87144c.jpg)
-)
 
-![Capture](![Uploading daytime_0922_ 21-09-22 12-34-30.jpg…]()
-)
+![323-0-41-12mm0538](https://user-images.githubusercontent.com/28767607/164894712-fd455c96-77d8-4538-af01-5861bdd39ea7.jpg)
+
+![daytime_0922_ 21-09-22 12-34-30](https://user-images.githubusercontent.com/28767607/164894719-b704b24d-e6e0-45b0-95e4-b362bff7f538.jpg)
 
 # References
 
