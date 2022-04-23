@@ -52,15 +52,15 @@ After finishing training you will got a fine-tuned model that will able to find 
 
 After Detection of License plate we should seprate up text and down text of each plate so that having correct OCR. Because each license has two line of text. This sepration will help us having great output.
 
-(![1_daytime_0913_0102](https://user-images.githubusercontent.com/28767607/164892983-ab1aa83f-29d0-4e88-b259-fd5471b9c764.jpg)
+[1_daytime_0913_0102](https://user-images.githubusercontent.com/28767607/164892983-ab1aa83f-29d0-4e88-b259-fd5471b9c764.jpg)
+
+^
+^
+
+[Capture](https://user-images.githubusercontent.com/28767607/164892988-1061dd8f-2e52-4235-8517-b1fe73c91832.PNG)
 
 
----------------->    
-
-(![Capture](https://user-images.githubusercontent.com/28767607/164892988-1061dd8f-2e52-4235-8517-b1fe73c91832.PNG)
-
-
-(![Capture2](https://user-images.githubusercontent.com/28767607/164892993-07c2976c-a8dc-4a3a-a952-44d375e9d8d5.PNG)
+[Capture2](https://user-images.githubusercontent.com/28767607/164892993-07c2976c-a8dc-4a3a-a952-44d375e9d8d5.PNG)
 
 
 
