@@ -54,17 +54,32 @@ After Detection of License plate we should seprate up text and down text of each
 
 ![1_daytime_0913_0102](https://user-images.githubusercontent.com/28767607/164892983-ab1aa83f-29d0-4e88-b259-fd5471b9c764.jpg)
 
->>>>>
 
 ![Capture](https://user-images.githubusercontent.com/28767607/164892988-1061dd8f-2e52-4235-8517-b1fe73c91832.PNG)
 
 
 ![Capture2](https://user-images.githubusercontent.com/28767607/164892993-07c2976c-a8dc-4a3a-a952-44d375e9d8d5.PNG)
 
-
+Using yolov5_textDetection directory you can train the model on your own dataset to detect each line of text.
 
 ## OCR Plates 
 
+After detection of each line of text, it's OCR's turn to recognize what has written in the picture. Two types of model are used in this section. ResNet-BiLSTM-Attention model and simpleHTR model (cnn + lstm + ctc layers). We get better output by the first model.
+
 ### OCR using ResNet-BiLSTM-Attention model
 
+deep_ocr_down and deep_ocr_up directories are related to ResNet-BiLSTM-Attention model. For each line of text we train a model.
+
 ### OCR using simpleHTR model
+
+ocr_down and ocr_up directories are related to simpleHTR model. For each line of text we train a model.
+
+# References
+
+https://github.com/ultralytics/yolov5
+
+https://github.com/githubharald/SimpleHTR
+
+https://github.com/clovaai/deep-text-recognition-benchmark
+
+
