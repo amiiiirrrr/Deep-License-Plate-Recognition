@@ -1,0 +1,681 @@
+--------------------------------------------------------------------------------
+dataset_root: dataset/train_lmdb
+opt.select_data: ['MJ', 'ST']
+opt.batch_ratio: ['0.5', '0.5']
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: dataset/train_lmdb
+opt.select_data: ['MJ', 'ST']
+opt.batch_ratio: ['0.5', '0.5']
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: dataset/train_lmdb
+opt.select_data: ['MJ', 'ST']
+opt.batch_ratio: ['0.5', '0.5']
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: dataset/train_lmdb
+opt.select_data: ['MJ', 'ST']
+opt.batch_ratio: ['0.5', '0.5']
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: dataset/train_lmdb
+opt.select_data: ['MJ', 'ST']
+opt.batch_ratio: ['0.5', '0.5']
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: dataset/train_lmdb
+opt.select_data: ['MJ', 'ST']
+opt.batch_ratio: ['0.5', '0.5']
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: dataset/train_lmdb
+opt.select_data: ['/']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: dataset/train_lmdb
+opt.select_data: ['/']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: dataset/train_lmdb
+opt.select_data: ['/']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: dataset/train_lmdb
+opt.select_data: ['/']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    dataset/train_lmdb	 dataset: /
+sub-directory:	/.	 num samples: 899
+num total samples of /: 899 x 1.0 (total_data_usage_ratio) = 899
+num samples of / per batch: 192 x 1.0 (batch_ratio) = 192
+--------------------------------------------------------------------------------
+Total_batch_size: 192 = 192
+--------------------------------------------------------------------------------
+dataset_root:    dataset/valid_lmdb	 dataset: /
+sub-directory:	/.	 num samples: 70
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: dataset/train_lmdb
+opt.select_data: ['/']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    dataset/train_lmdb	 dataset: /
+sub-directory:	/.	 num samples: 914
+num total samples of /: 914 x 1.0 (total_data_usage_ratio) = 914
+num samples of / per batch: 192 x 1.0 (batch_ratio) = 192
+--------------------------------------------------------------------------------
+Total_batch_size: 192 = 192
+--------------------------------------------------------------------------------
+dataset_root:    dataset/valid_lmdb	 dataset: /
+sub-directory:	/.	 num samples: 50
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: dataset/train_lmdb
+opt.select_data: ['/']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    dataset/train_lmdb	 dataset: /
+sub-directory:	/.	 num samples: 911
+num total samples of /: 911 x 1.0 (total_data_usage_ratio) = 911
+num samples of / per batch: 192 x 1.0 (batch_ratio) = 192
+--------------------------------------------------------------------------------
+Total_batch_size: 192 = 192
+--------------------------------------------------------------------------------
+dataset_root:    dataset/valid_lmdb	 dataset: /
+sub-directory:	/.	 num samples: 50
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: dataset/train_lmdb
+opt.select_data: ['/']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    dataset/train_lmdb	 dataset: /
+sub-directory:	/.	 num samples: 1825
+num total samples of /: 1825 x 1.0 (total_data_usage_ratio) = 1825
+num samples of / per batch: 192 x 1.0 (batch_ratio) = 192
+--------------------------------------------------------------------------------
+Total_batch_size: 192 = 192
+--------------------------------------------------------------------------------
+dataset_root:    dataset/valid_lmdb	 dataset: /
+sub-directory:	/.	 num samples: 100
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: dataset/train_lmdb
+opt.select_data: ['/']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    dataset/train_lmdb	 dataset: /
+sub-directory:	/.	 num samples: 912
+num total samples of /: 912 x 1.0 (total_data_usage_ratio) = 912
+num samples of / per batch: 192 x 1.0 (batch_ratio) = 192
+--------------------------------------------------------------------------------
+Total_batch_size: 192 = 192
+--------------------------------------------------------------------------------
+dataset_root:    dataset/valid_lmdb	 dataset: /
+sub-directory:	/.	 num samples: 50
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: dataset/train_lmdb
+opt.select_data: ['/']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    dataset/train_lmdb	 dataset: /
+sub-directory:	/.	 num samples: 912
+num total samples of /: 912 x 1.0 (total_data_usage_ratio) = 912
+num samples of / per batch: 192 x 1.0 (batch_ratio) = 192
+--------------------------------------------------------------------------------
+Total_batch_size: 192 = 192
+--------------------------------------------------------------------------------
+dataset_root:    dataset/valid_lmdb	 dataset: /
+sub-directory:	/.	 num samples: 50
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: dataset/train_lmdb
+opt.select_data: ['/']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    dataset/train_lmdb	 dataset: /
+sub-directory:	/.	 num samples: 914
+num total samples of /: 914 x 1.0 (total_data_usage_ratio) = 914
+num samples of / per batch: 192 x 1.0 (batch_ratio) = 192
+--------------------------------------------------------------------------------
+Total_batch_size: 192 = 192
+--------------------------------------------------------------------------------
+dataset_root:    dataset/valid_lmdb	 dataset: /
+sub-directory:	/.	 num samples: 50
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: dataset/train_lmdb
+opt.select_data: ['/']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    dataset/train_lmdb	 dataset: /
+sub-directory:	/.	 num samples: 914
+num total samples of /: 914 x 1.0 (total_data_usage_ratio) = 914
+num samples of / per batch: 192 x 1.0 (batch_ratio) = 192
+--------------------------------------------------------------------------------
+Total_batch_size: 192 = 192
+--------------------------------------------------------------------------------
+dataset_root:    dataset/valid_lmdb	 dataset: /
+sub-directory:	/.	 num samples: 50
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: dataset/train_lmdb
+opt.select_data: ['/']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    dataset/train_lmdb	 dataset: /
+sub-directory:	/.	 num samples: 874
+num total samples of /: 874 x 1.0 (total_data_usage_ratio) = 874
+num samples of / per batch: 192 x 1.0 (batch_ratio) = 192
+--------------------------------------------------------------------------------
+Total_batch_size: 192 = 192
+--------------------------------------------------------------------------------
+dataset_root:    dataset/valid_lmdb	 dataset: /
+sub-directory:	/.	 num samples: 90
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: dataset/train_lmdb
+opt.select_data: ['/']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    dataset/train_lmdb	 dataset: /
+sub-directory:	/.	 num samples: 2
+num total samples of /: 2 x 1.0 (total_data_usage_ratio) = 2
+num samples of / per batch: 192 x 1.0 (batch_ratio) = 192
+--------------------------------------------------------------------------------
+Total_batch_size: 192 = 192
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: dataset/train_lmdb
+opt.select_data: ['/']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    dataset/train_lmdb	 dataset: /
+sub-directory:	/.	 num samples: 2
+num total samples of /: 2 x 1.0 (total_data_usage_ratio) = 2
+num samples of / per batch: 192 x 1.0 (batch_ratio) = 192
+--------------------------------------------------------------------------------
+Total_batch_size: 192 = 192
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: dataset/train_lmdb
+opt.select_data: ['/']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    dataset/train_lmdb	 dataset: /
+sub-directory:	/.	 num samples: 846
+num total samples of /: 846 x 1.0 (total_data_usage_ratio) = 846
+num samples of / per batch: 192 x 1.0 (batch_ratio) = 192
+--------------------------------------------------------------------------------
+Total_batch_size: 192 = 192
+--------------------------------------------------------------------------------
+dataset_root:    dataset/valid_lmdb	 dataset: /
+sub-directory:	/.	 num samples: 100
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: dataset/train_lmdb
+opt.select_data: ['/']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    dataset/train_lmdb	 dataset: /
+sub-directory:	/.	 num samples: 1849
+num total samples of /: 1849 x 1.0 (total_data_usage_ratio) = 1849
+num samples of / per batch: 192 x 1.0 (batch_ratio) = 192
+--------------------------------------------------------------------------------
+Total_batch_size: 192 = 192
+--------------------------------------------------------------------------------
+dataset_root:    dataset/valid_lmdb	 dataset: /
+sub-directory:	/.	 num samples: 197
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: dataset/train_lmdb
+opt.select_data: ['/']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    dataset/train_lmdb	 dataset: /
+sub-directory:	/.	 num samples: 1849
+num total samples of /: 1849 x 1.0 (total_data_usage_ratio) = 1849
+num samples of / per batch: 192 x 1.0 (batch_ratio) = 192
+--------------------------------------------------------------------------------
+Total_batch_size: 192 = 192
+--------------------------------------------------------------------------------
+dataset_root:    dataset/valid_lmdb	 dataset: /
+sub-directory:	/.	 num samples: 197
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: dataset/train_lmdb
+opt.select_data: ['/']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    dataset/train_lmdb	 dataset: /
+sub-directory:	/.	 num samples: 3547
+num total samples of /: 3547 x 1.0 (total_data_usage_ratio) = 3547
+num samples of / per batch: 192 x 1.0 (batch_ratio) = 192
+--------------------------------------------------------------------------------
+Total_batch_size: 192 = 192
+--------------------------------------------------------------------------------
+dataset_root:    dataset/valid_lmdb	 dataset: /
+sub-directory:	/.	 num samples: 394
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: dataset/train_lmdb
+opt.select_data: ['/']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    dataset/train_lmdb	 dataset: /
+sub-directory:	/.	 num samples: 4238
+num total samples of /: 4238 x 1.0 (total_data_usage_ratio) = 4238
+num samples of / per batch: 192 x 1.0 (batch_ratio) = 192
+--------------------------------------------------------------------------------
+Total_batch_size: 192 = 192
+--------------------------------------------------------------------------------
+dataset_root:    dataset/valid_lmdb	 dataset: /
+sub-directory:	/.	 num samples: 470
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: dataset/train_lmdb
+opt.select_data: ['/']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    dataset/train_lmdb	 dataset: /
+sub-directory:	/.	 num samples: 5583
+num total samples of /: 5583 x 1.0 (total_data_usage_ratio) = 5583
+num samples of / per batch: 192 x 1.0 (batch_ratio) = 192
+--------------------------------------------------------------------------------
+Total_batch_size: 192 = 192
+--------------------------------------------------------------------------------
+dataset_root:    dataset/valid_lmdb	 dataset: /
+sub-directory:	/.	 num samples: 620
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: dataset/train_lmdb
+opt.select_data: ['/']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    dataset/train_lmdb	 dataset: /
+sub-directory:	/.	 num samples: 5585
+num total samples of /: 5585 x 1.0 (total_data_usage_ratio) = 5585
+num samples of / per batch: 192 x 1.0 (batch_ratio) = 192
+--------------------------------------------------------------------------------
+Total_batch_size: 192 = 192
+--------------------------------------------------------------------------------
+dataset_root:    dataset/valid_lmdb	 dataset: /
+sub-directory:	/.	 num samples: 620
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: dataset/train_lmdb
+opt.select_data: ['/']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    dataset/train_lmdb	 dataset: /
+sub-directory:	/.	 num samples: 0
+num total samples of /: 0 x 1.0 (total_data_usage_ratio) = 0
+num samples of / per batch: 192 x 1.0 (batch_ratio) = 192
+--------------------------------------------------------------------------------
+dataset_root: dataset/train_lmdb
+opt.select_data: ['/']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    dataset/train_lmdb	 dataset: /
+sub-directory:	/.	 num samples: 0
+num total samples of /: 0 x 1.0 (total_data_usage_ratio) = 0
+num samples of / per batch: 192 x 1.0 (batch_ratio) = 192
+--------------------------------------------------------------------------------
+dataset_root: dataset/train_lmdb
+opt.select_data: ['/']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    dataset/train_lmdb	 dataset: /
+sub-directory:	/.	 num samples: 0
+num total samples of /: 0 x 1.0 (total_data_usage_ratio) = 0
+num samples of / per batch: 192 x 1.0 (batch_ratio) = 192
+--------------------------------------------------------------------------------
+dataset_root: dataset/train_lmdb
+opt.select_data: ['/']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    dataset/train_lmdb	 dataset: /
+sub-directory:	/.	 num samples: 0
+num total samples of /: 0 x 1.0 (total_data_usage_ratio) = 0
+num samples of / per batch: 192 x 1.0 (batch_ratio) = 192
+--------------------------------------------------------------------------------
+dataset_root: dataset/train_lmdb
+opt.select_data: ['/']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    dataset/train_lmdb	 dataset: /
+sub-directory:	/.	 num samples: 3547
+num total samples of /: 3547 x 1.0 (total_data_usage_ratio) = 3547
+num samples of / per batch: 192 x 1.0 (batch_ratio) = 192
+--------------------------------------------------------------------------------
+Total_batch_size: 192 = 192
+--------------------------------------------------------------------------------
+dataset_root:    dataset/valid_lmdb	 dataset: /
+sub-directory:	/.	 num samples: 394
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: dataset/train_lmdb
+opt.select_data: ['/']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    dataset/train_lmdb	 dataset: /
+sub-directory:	/.	 num samples: 3547
+num total samples of /: 3547 x 1.0 (total_data_usage_ratio) = 3547
+num samples of / per batch: 192 x 1.0 (batch_ratio) = 192
+--------------------------------------------------------------------------------
+Total_batch_size: 192 = 192
+--------------------------------------------------------------------------------
+dataset_root:    dataset/valid_lmdb	 dataset: /
+sub-directory:	/.	 num samples: 394
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: dataset/train_lmdb
+opt.select_data: ['/']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    dataset/train_lmdb	 dataset: /
+sub-directory:	/.	 num samples: 3547
+num total samples of /: 3547 x 1.0 (total_data_usage_ratio) = 3547
+num samples of / per batch: 192 x 1.0 (batch_ratio) = 192
+--------------------------------------------------------------------------------
+Total_batch_size: 192 = 192
+--------------------------------------------------------------------------------
+dataset_root:    dataset/valid_lmdb	 dataset: /
+sub-directory:	/.	 num samples: 394
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: dataset/train_lmdb
+opt.select_data: ['/']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    dataset/train_lmdb	 dataset: /
+sub-directory:	/.	 num samples: 0
+num total samples of /: 0 x 1.0 (total_data_usage_ratio) = 0
+num samples of / per batch: 192 x 1.0 (batch_ratio) = 192
+--------------------------------------------------------------------------------
+dataset_root: dataset/train_lmdb
+opt.select_data: ['/']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    dataset/train_lmdb	 dataset: /
+sub-directory:	/.	 num samples: 0
+num total samples of /: 0 x 1.0 (total_data_usage_ratio) = 0
+num samples of / per batch: 192 x 1.0 (batch_ratio) = 192
+--------------------------------------------------------------------------------
+dataset_root: dataset/train_lmdb
+opt.select_data: ['/']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    dataset/train_lmdb	 dataset: /
+sub-directory:	/.	 num samples: 0
+num total samples of /: 0 x 1.0 (total_data_usage_ratio) = 0
+num samples of / per batch: 192 x 1.0 (batch_ratio) = 192
+--------------------------------------------------------------------------------
+dataset_root: dataset/train_lmdb
+opt.select_data: ['/']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    dataset/train_lmdb	 dataset: /
+sub-directory:	/.	 num samples: 0
+num total samples of /: 0 x 1.0 (total_data_usage_ratio) = 0
+num samples of / per batch: 192 x 1.0 (batch_ratio) = 192
+--------------------------------------------------------------------------------
+dataset_root: dataset/train_lmdb
+opt.select_data: ['/']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    dataset/train_lmdb	 dataset: /
+sub-directory:	/.	 num samples: 0
+num total samples of /: 0 x 1.0 (total_data_usage_ratio) = 0
+num samples of / per batch: 192 x 1.0 (batch_ratio) = 192
+--------------------------------------------------------------------------------
+dataset_root: dataset/train_lmdb
+opt.select_data: ['/']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    dataset/train_lmdb	 dataset: /
+sub-directory:	/.	 num samples: 0
+num total samples of /: 0 x 1.0 (total_data_usage_ratio) = 0
+num samples of / per batch: 192 x 1.0 (batch_ratio) = 192
+--------------------------------------------------------------------------------
+dataset_root: dataset/train_lmdb
+opt.select_data: ['/']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    dataset/train_lmdb	 dataset: /
+sub-directory:	/.	 num samples: 0
+num total samples of /: 0 x 1.0 (total_data_usage_ratio) = 0
+num samples of / per batch: 192 x 1.0 (batch_ratio) = 192
+--------------------------------------------------------------------------------
+dataset_root: dataset/train_lmdb
+opt.select_data: ['/']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    dataset/train_lmdb	 dataset: /
+sub-directory:	/.	 num samples: 0
+num total samples of /: 0 x 1.0 (total_data_usage_ratio) = 0
+num samples of / per batch: 192 x 1.0 (batch_ratio) = 192
+--------------------------------------------------------------------------------
+dataset_root: dataset/train_lmdb
+opt.select_data: ['/']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    dataset/train_lmdb	 dataset: /
+sub-directory:	/.	 num samples: 0
+num total samples of /: 0 x 1.0 (total_data_usage_ratio) = 0
+num samples of / per batch: 192 x 1.0 (batch_ratio) = 192
+--------------------------------------------------------------------------------
+dataset_root: dataset/train_lmdb
+opt.select_data: ['/']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    dataset/train_lmdb	 dataset: /
+sub-directory:	/.	 num samples: 0
+num total samples of /: 0 x 1.0 (total_data_usage_ratio) = 0
+num samples of / per batch: 192 x 1.0 (batch_ratio) = 192
+--------------------------------------------------------------------------------
+dataset_root: dataset/train_lmdb
+opt.select_data: ['/']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    dataset/train_lmdb	 dataset: /
+sub-directory:	/.	 num samples: 0
+num total samples of /: 0 x 1.0 (total_data_usage_ratio) = 0
+num samples of / per batch: 192 x 1.0 (batch_ratio) = 192
+--------------------------------------------------------------------------------
+dataset_root: dataset/train_lmdb
+opt.select_data: ['/']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    dataset/train_lmdb	 dataset: /
+sub-directory:	/.	 num samples: 0
+num total samples of /: 0 x 1.0 (total_data_usage_ratio) = 0
+num samples of / per batch: 192 x 1.0 (batch_ratio) = 192
+--------------------------------------------------------------------------------
+dataset_root: dataset/train_lmdb
+opt.select_data: ['/']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    dataset/train_lmdb	 dataset: /
+sub-directory:	/.	 num samples: 0
+num total samples of /: 0 x 1.0 (total_data_usage_ratio) = 0
+num samples of / per batch: 192 x 1.0 (batch_ratio) = 192
+--------------------------------------------------------------------------------
+dataset_root: dataset/train_lmdb
+opt.select_data: ['/']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    dataset/train_lmdb	 dataset: /
+sub-directory:	/.	 num samples: 0
+num total samples of /: 0 x 1.0 (total_data_usage_ratio) = 0
+num samples of / per batch: 192 x 1.0 (batch_ratio) = 192
+--------------------------------------------------------------------------------
+dataset_root: dataset/train_lmdb
+opt.select_data: ['/']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    dataset/train_lmdb	 dataset: /
+sub-directory:	/.	 num samples: 0
+num total samples of /: 0 x 1.0 (total_data_usage_ratio) = 0
+num samples of / per batch: 192 x 1.0 (batch_ratio) = 192
+--------------------------------------------------------------------------------
+dataset_root: dataset/train_lmdb
+opt.select_data: ['/']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    dataset/train_lmdb	 dataset: /
+sub-directory:	/.	 num samples: 0
+num total samples of /: 0 x 1.0 (total_data_usage_ratio) = 0
+num samples of / per batch: 192 x 1.0 (batch_ratio) = 192
+--------------------------------------------------------------------------------
+dataset_root: dataset/train_lmdb
+opt.select_data: ['/']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    dataset/train_lmdb	 dataset: /
+sub-directory:	/.	 num samples: 0
+num total samples of /: 0 x 1.0 (total_data_usage_ratio) = 0
+num samples of / per batch: 192 x 1.0 (batch_ratio) = 192
+--------------------------------------------------------------------------------
+dataset_root: dataset/train_lmdb
+opt.select_data: ['/']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    dataset/train_lmdb	 dataset: /
+sub-directory:	/.	 num samples: 0
+num total samples of /: 0 x 1.0 (total_data_usage_ratio) = 0
+num samples of / per batch: 192 x 1.0 (batch_ratio) = 192
+--------------------------------------------------------------------------------
+dataset_root: dataset/train_lmdb
+opt.select_data: ['/']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    dataset/train_lmdb	 dataset: /
+sub-directory:	/.	 num samples: 0
+num total samples of /: 0 x 1.0 (total_data_usage_ratio) = 0
+num samples of / per batch: 192 x 1.0 (batch_ratio) = 192
+--------------------------------------------------------------------------------
+dataset_root: dataset/train_lmdb
+opt.select_data: ['/']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    dataset/train_lmdb	 dataset: /
+sub-directory:	/.	 num samples: 3454
+num total samples of /: 3454 x 1.0 (total_data_usage_ratio) = 3454
+num samples of / per batch: 192 x 1.0 (batch_ratio) = 192
+--------------------------------------------------------------------------------
+Total_batch_size: 192 = 192
+--------------------------------------------------------------------------------
+dataset_root:    dataset/valid_lmdb	 dataset: /
+sub-directory:	/.	 num samples: 383
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: dataset/train_lmdb
+opt.select_data: ['/']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    dataset/train_lmdb	 dataset: /
+sub-directory:	/.	 num samples: 3454
+num total samples of /: 3454 x 1.0 (total_data_usage_ratio) = 3454
+num samples of / per batch: 192 x 1.0 (batch_ratio) = 192
+--------------------------------------------------------------------------------
+Total_batch_size: 192 = 192
+--------------------------------------------------------------------------------
+dataset_root:    dataset/valid_lmdb	 dataset: /
+sub-directory:	/.	 num samples: 383
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: dataset/train_lmdb
+opt.select_data: ['/']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    dataset/train_lmdb	 dataset: /
+sub-directory:	/.	 num samples: 3454
+num total samples of /: 3454 x 1.0 (total_data_usage_ratio) = 3454
+num samples of / per batch: 192 x 1.0 (batch_ratio) = 192
+--------------------------------------------------------------------------------
+Total_batch_size: 192 = 192
+--------------------------------------------------------------------------------
+dataset_root:    dataset/valid_lmdb	 dataset: /
+sub-directory:	/.	 num samples: 383
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: dataset/train_lmdb
+opt.select_data: ['/']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    dataset/train_lmdb	 dataset: /
+sub-directory:	/.	 num samples: 3454
+num total samples of /: 3454 x 1.0 (total_data_usage_ratio) = 3454
+num samples of / per batch: 192 x 1.0 (batch_ratio) = 192
+--------------------------------------------------------------------------------
+Total_batch_size: 192 = 192
+--------------------------------------------------------------------------------
+dataset_root:    dataset/valid_lmdb	 dataset: /
+sub-directory:	/.	 num samples: 383
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: dataset/train_lmdb
+opt.select_data: ['/']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    dataset/train_lmdb	 dataset: /
+sub-directory:	/.	 num samples: 3454
+num total samples of /: 3454 x 1.0 (total_data_usage_ratio) = 3454
+num samples of / per batch: 192 x 1.0 (batch_ratio) = 192
+--------------------------------------------------------------------------------
+Total_batch_size: 192 = 192
+--------------------------------------------------------------------------------
+dataset_root:    dataset/valid_lmdb	 dataset: /
+sub-directory:	/.	 num samples: 383
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: dataset/train_lmdb
+opt.select_data: ['/']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    dataset/train_lmdb	 dataset: /
+sub-directory:	/.	 num samples: 3454
+num total samples of /: 3454 x 1.0 (total_data_usage_ratio) = 3454
+num samples of / per batch: 192 x 1.0 (batch_ratio) = 192
+--------------------------------------------------------------------------------
+Total_batch_size: 192 = 192
+--------------------------------------------------------------------------------
+dataset_root:    dataset/valid_lmdb	 dataset: /
+sub-directory:	/.	 num samples: 383
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: dataset/train_lmdb
+opt.select_data: ['/']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    dataset/train_lmdb	 dataset: /
+sub-directory:	/.	 num samples: 3454
+num total samples of /: 3454 x 1.0 (total_data_usage_ratio) = 3454
+num samples of / per batch: 192 x 1.0 (batch_ratio) = 192
+--------------------------------------------------------------------------------
+Total_batch_size: 192 = 192
+--------------------------------------------------------------------------------
+dataset_root:    dataset/valid_lmdb	 dataset: /
+sub-directory:	/.	 num samples: 383
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: dataset/train_lmdb
+opt.select_data: ['/']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    dataset/train_lmdb	 dataset: /
+sub-directory:	/.	 num samples: 3454
+num total samples of /: 3454 x 1.0 (total_data_usage_ratio) = 3454
+num samples of / per batch: 192 x 1.0 (batch_ratio) = 192
+--------------------------------------------------------------------------------
+Total_batch_size: 192 = 192
+--------------------------------------------------------------------------------
+dataset_root:    dataset/valid_lmdb	 dataset: /
+sub-directory:	/.	 num samples: 383
+--------------------------------------------------------------------------------
