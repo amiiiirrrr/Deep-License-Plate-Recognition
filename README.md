@@ -7,6 +7,7 @@ License Plate Recognition Using Yolov5 for plate detection, ResNet-BiLSTM-Attent
 
 In this section, Plates will be detected by fine-tune Yolov5 object detection model. In order to train, provide your own license plate dataset and re-train yolov5 model by following below steps.
 
+![alt text](https://github.com/amiiiirrrr/Deep-License-Plate-Recognition/blob/main/plateDetection_yolov5/dataset/images/test/006_1.jpg)
 
 1. cd to plateDetection_yolov5
 2. $ pip install -r requirements.txt
@@ -50,6 +51,8 @@ After finishing training you will got a fine-tuned model that will able to find 
 ## Detect Up and Down of detected Plate
 
 After Detection of License plate we should seprate up text and down text of each plate so that having correct OCR. Because each license has two line of text. This sepration will help us having great output.
+
+
 
 ## OCR Plates 
 
