@@ -54,8 +54,6 @@ After Detection of License plate we should seprate up text and down text of each
 
 [1_daytime_0913_0102](https://user-images.githubusercontent.com/28767607/164892983-ab1aa83f-29d0-4e88-b259-fd5471b9c764.jpg)
 
-^
-^
 
 [Capture](https://user-images.githubusercontent.com/28767607/164892988-1061dd8f-2e52-4235-8517-b1fe73c91832.PNG)
 
